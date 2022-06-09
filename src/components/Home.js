@@ -13,7 +13,7 @@ export default function Home() {
                     <h5 className="card-text lh-base">Welcome to Pizza Delivery Service. This is the place when you may choose the most delicious pizza you like from vide variety of options!</h5>
                     <hr className='my-4' />
                     <h6 className="card-text mb-4">We're performing delivery free of charge in case if your order is highter than 20$</h6>
-                    <Link to="/login" class="btn btn-dark focus-none text-lg-center d-block w-75 mx-auto py-2">Sign In and Order</Link>
+                    <Link to="/login" className="btn btn-dark focus-none text-lg-center d-block w-75 mx-auto py-2">Sign In and Order</Link>
                   </div>
               </div>
             </div>
