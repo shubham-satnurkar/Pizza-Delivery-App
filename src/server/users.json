@@ -1,5 +1,11 @@
 {
-    "users": [
-        
-    ]
+  "users": [
+    {
+      "name": "Shubham Satnurkar",
+      "email": "shubham@gmail.com",
+      "pass": "748246",
+      "mobile": "7789650910",
+      "id": 1
+    }
+  ]
 }
